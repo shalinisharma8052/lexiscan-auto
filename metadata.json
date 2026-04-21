@@ -1,0 +1,6 @@
+{
+  "name": "LexiScan Auto",
+  "description": "Intelligent Document Processing for Legal Contracts. Automated NER extraction for dates, parties, amounts, and clauses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
